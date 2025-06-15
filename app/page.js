@@ -53,7 +53,8 @@ export default function Home() {
               width={75}
               height={50}
               className="pl-4"
-            />
+            /> 
+            <span className="text-2xl font-bold text-gray-900">Brevio</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
