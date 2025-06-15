@@ -30,7 +30,6 @@ function SideBar() {
         height={50}
         className="pl-4"
       />
-      <span className="text-2xl font-bold text-gray-900">Brevio</span>
       <div className="mt-10 ">
         <UploadPDFDialog
           isMaxFile={
